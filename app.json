@@ -1,0 +1,23 @@
+{
+  "id": "7d68aed8-a237-4c2b-8b30-37c651f4da70",
+  "name": "Web Service Examples",
+  "publisher": "Arend-Jan Kauffmann",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 60000,
+    "to": 64999
+  },
+  "runtime": "2.0"
+}
